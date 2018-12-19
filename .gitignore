@@ -1,3 +1,9 @@
-## jupyter
+## jupyter ##
 */.ipynb_checkpoints
 *.ipynb
+
+## python ##
+__pycache__
+
+## cloud9 ##
+*.c9
